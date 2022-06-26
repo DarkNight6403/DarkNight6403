@@ -1,5 +1,4 @@
 
-preview
 <h1 align="center">Marlikteam</h1>
 <h3 align="center">A Passionate Frontend Developer From Iran :)</h3>
 
