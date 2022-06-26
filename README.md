@@ -1,6 +1,6 @@
 
 <h1 align="center">Marlikteam</h1>
-<h3 align="center">Producer Of PHONK style Music Beats In Iran And Some Programmers :)</h3>
+<h3 align="center">Producer Of Phonk Style Music Beats In Iran And Some Programmers :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marlikteam&label=Profile%20views&color=0e75b6&style=flat" alt="marlikteam" /> </p>
 
