@@ -14,7 +14,7 @@ download markdown
 download backup
 
 preview
-<h1 align="center">Hi 👋, I'm Marlikteam</h1>
+<h1 align="center">Marlikteam</h1>
 <h3 align="center">A Passionate Frontend Developer From Iran :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marlikteam&label=Profile%20views&color=0e75b6&style=flat" alt="marlikteam" /> </p>
