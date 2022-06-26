@@ -1,6 +1,6 @@
 
 <h1 align="center">Marlikteam</h1>
-<h3 align="center">Follow the maker of PHONK style music beats in Iran and some programmers of the official page of Marlik Team Gate Hub right now.</h3>
+<h3 align="center">Follow the maker of PHONK style music beats in Iran and some programmers of the official page of MarlikTeam GitHub right now.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marlikteam&label=Profile%20views&color=0e75b6&style=flat" alt="marlikteam" /> </p>
 
